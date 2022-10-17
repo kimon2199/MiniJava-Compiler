@@ -1,6 +1,8 @@
 To compile code run the `make` command in the current directory (make sure ... are present in the parent directory).
 
 To run the executable use the command `java Main arg` where `arg` is a java program (like the ones found in `./example_input`) to be semantically analized.
+
+
 Example: `java Main example_input/LinearSearch.java`
 
 Input: `example_input/LinearSearch.java`
